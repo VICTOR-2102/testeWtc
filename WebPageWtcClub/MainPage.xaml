@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="#112B47"
+             x:Class="WebPageWtcClub.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="brancowtc.png"
+                HeightRequest="185" />
+
+
+            <VerticalStackLayout>
+                <Label Text="Welcome!" FontSize="28" TextColor="White" HorizontalTextAlignment="Center"/>
+                <Label Text="Login to your account" FontSize="18" TextColor="White" HorizontalTextAlignment="Center"/>
+            </VerticalStackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Frame ZIndex="1" HasShadow="True" BorderColor="White" HeightRequest="56" WidthRequest="56" CornerRadius="28">
+                    <Image Source="icon_user.png" HeightRequest="20" WidthRequest="20"/>
+                </Frame>
+                <Frame HeightRequest="45" Padding="0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                    <Entry Margin="20,0,0,0" VerticalOptions="Center" Placeholder="User Name" Keyboard="Email"/>
+                </Frame>
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal">
+                <Frame ZIndex="1" HasShadow="True" BorderColor="White" HeightRequest="56" WidthRequest="56" CornerRadius="28">
+                    <Image Source="icon_lock.png" HeightRequest="20" WidthRequest="20"/>
+                </Frame>
+                <Frame HeightRequest="45" Padding="0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                    <Entry Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Password" IsPassword="True" Keyboard="Email"/>
+                </Frame>
+            </StackLayout>
+
+            <Button
+                Text="Sign In" 
+                TextColor="#112B47"
+                BorderWidth="20"
+                BackgroundColor="White"
+                CornerRadius="20"
+                HorizontalOptions="Center" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
