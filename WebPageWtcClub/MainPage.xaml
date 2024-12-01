@@ -39,12 +39,13 @@
             </StackLayout>
 
             <Button
-                Text="Sign In" 
-                TextColor="#112B47"
-                BorderWidth="20"
-                BackgroundColor="White"
+               BackgroundColor="White"
                 CornerRadius="20"
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center"
+                WidthRequest="100"
+                Text="Sign In"
+                TextColor="Black"
+                />
         </VerticalStackLayout>
     </ScrollView>
 

@@ -259,6 +259,10 @@ C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\bin\Debug\net8.0-ios\i
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
@@ -268,9 +272,6 @@ C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\i
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@2x.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@3x.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.stamp
-C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\brancowtc.png
-C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\icon_user.png
-C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\icon_lock.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
@@ -283,6 +284,9 @@ C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\i
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\brancowtc.png
+C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\icon_user.png
+C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\icon_lock.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
@@ -307,6 +311,7 @@ C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\i
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\WebPageWtcClub.AssemblyInfoInputs.cache
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\WebPageWtcClub.AssemblyInfo.cs
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\WebPageWtcClub.csproj.CoreCompileInputs.cache
+C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\WebPageWtcClub.sourcelink.json
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\XamlC.stamp
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\WebPageW.C7000D73.Up2Date
 C:\Users\vhmar\source\repos\WebPageWtcClub\WebPageWtcClub\obj\Debug\net8.0-ios\iossimulator-x64\WebPageWtcClub.dll

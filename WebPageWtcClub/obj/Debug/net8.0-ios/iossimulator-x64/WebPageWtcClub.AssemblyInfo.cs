@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebPageWtcClub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+843b5baa7369310224c2b7b0d6f5622c7489ebf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebPageWtcClub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebPageWtcClub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
