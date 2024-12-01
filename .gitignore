@@ -206,12 +206,15 @@ PublishScripts/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/[Pp]ackages/repositories.config
 # NuGet v3's project.json files produces more ignorable files
-*.nuget.props
+*.nuget.g.props
+*.nuget.g
 *.nuget.targets
 
 # Microsoft Azure Build Output
 csx/
 *.build.csdef
+
+Debug
 
 # Microsoft Azure Emulator
 ecf/
