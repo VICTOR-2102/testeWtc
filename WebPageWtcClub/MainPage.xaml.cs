@@ -1,25 +1,28 @@
-﻿namespace WebPageWtcClub
+﻿using Azure.Identity;
+using WebPageWtcClub.ContextDataBase;
+
+namespace WebPageWtcClub
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
         public MainPage()
         {
             InitializeComponent();
-        }
-
-        private void OnCounterClicked(object sender, EventArgs e)
+        }       
+        public void LoginClient(object sender, EventArgs e)
         {
-            //count++;
+            if(!string.IsNullOrEmpty(passWord.Text) && !string.IsNullOrEmpty(userName.Text))
+            {
+                WtcContext context = new WtcContext();
+                //var numberUrl = context.ConsultarLoginCliente(userName.Text, passWord.Text);
 
-            //if (count == 1)
-            //    CounterBtn.Text = $"Clicked {count} time";
-            //else
-            //    CounterBtn.Text = $"Clicked {count} times";
-
-            //SemanticScreenReader.Announce(CounterBtn.Text);
+                var urlRequest = $"https://evento.wtcclub.com.br/perguntas.aspx?{4939}-{013351}"; //Mudar 4909 para 0 para o bruno tratar
+                Launcher.OpenAsync(urlRequest).Wait();
+            }
+            else
+            {
+                DisplayAlert("Alert", "Usarname or Passwoord not informed", "Ok");
+            }
         }
     }
-
 }

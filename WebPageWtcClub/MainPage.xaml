@@ -24,7 +24,7 @@
                     <Image Source="icon_user.png" HeightRequest="20" WidthRequest="20"/>
                 </Frame>
                 <Frame HeightRequest="45" Padding="0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
-                    <Entry Margin="20,0,0,0" VerticalOptions="Center" Placeholder="User Name" Keyboard="Email"/>
+                    <Entry Margin="20,0,0,0" VerticalOptions="Center" x:Name="userName" Placeholder="User Name" Keyboard="Email"/>
                 </Frame>
             </StackLayout>
 
@@ -34,17 +34,19 @@
                     <Image Source="icon_lock.png" HeightRequest="20" WidthRequest="20"/>
                 </Frame>
                 <Frame HeightRequest="45" Padding="0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
-                    <Entry Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Password" IsPassword="True" Keyboard="Email"/>
+                    <Entry Margin="20,0,0,0" VerticalOptions="Center" x:Name="passWord" Placeholder="Password" IsPassword="True" Keyboard="Email"/>
                 </Frame>
             </StackLayout>
 
             <Button
-                Text="Sign In" 
-                TextColor="#112B47"
-                BorderWidth="20"
                 BackgroundColor="White"
                 CornerRadius="20"
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center"
+                WidthRequest="100"
+                Text="Sign In"
+                TextColor="Black"
+                Clicked="LoginClient"
+                />
         </VerticalStackLayout>
     </ScrollView>
 
